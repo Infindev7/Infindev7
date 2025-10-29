@@ -11,6 +11,7 @@ I'm a developer and computer science enthusiast who loves to build. You'll find 
 * **Core CS:** Diving deep into **computer architecture** and **low-level programming** to understand how things *really* work.
 * **AI & Data:** Experimenting with AI APIs and connecting data sources like MongoDB to various platforms.
 
+
 ![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Infindev7&show_icons=true&theme=radical)
 <!--
 **Infindev7/Infindev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
