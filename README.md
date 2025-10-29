@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Infindev7&show_icons=true&theme=radical)
 <!--
 **Infindev7/Infindev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
