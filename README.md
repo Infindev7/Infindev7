@@ -29,10 +29,10 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| **[Smart Inventory Agent](https://github.com/Infindev7)** 🚧 | Claude API · n8n · MongoDB · Telegram · React | AI-powered inventory manager for kirana stores — vision, NLP, RAG, and a POS billing terminal |
+| **[StockSense](https://github.com/Infindev7/StockSense)** 🚧 | Claude API · n8n · MongoDB · Telegram · React | AI-powered inventory manager for kirana stores — vision, NLP, RAG, and a POS billing terminal |
 | **[RoadPulse](https://github.com/Infindev7)** | Godot · FastAPI · MongoDB · React/Leaflet | Crowdsourced road quality detection via IMU/GPS — shock-delta model, geohash nodes, live heatmap |
-| **[NeuralOps](https://github.com/Infindev7)** | OpenAI · React · FastAPI | AI agent observability & control platform — built at the OpenAI Codex Community Hackathon |
-| **[ChronoSphere](https://github.com/Infindev7)** | React · FastAPI · MongoDB | Distributed team scheduler modelling "timezone fatigue" as a first-class UX concept |
+| **[NeuralOps](https://github.com/Surajphirke3/Codex_hackthon)** | OpenAI · React · FastAPI | AI agent observability & control platform — built at the OpenAI Codex Community Hackathon |
+| **[ChronoSphere](https://github.com/JanhaviChitre/ChronoSphere)** | React · FastAPI · MongoDB | Distributed team scheduler modelling "timezone fatigue" as a first-class UX concept |
 | **[Infindev Games](https://infindev.itch.io)** 🎮 | Godot · Pygame · GDevelop · Bitsy | 5 shipped jam games across 5 different engines |
 
 ---
