@@ -6,7 +6,7 @@
 ```
 ~$ cat about.txt
 
-→ 2nd-yr B.E. AI&DS @ VCET, Vasai (Mumbai University, 2024–28)
+→ 3rd-yr B.E. AI&DS @ VCET, Vasai (Mumbai University, 2024–28)
 → Incoming intern @ Surfboard India (ContentStack · Built.io · Dhruva Space)
 → Building kirana store inventory agents with Claude + n8n + MongoDB Atlas
 → Shipped 5 jam games under Infindev on itch.io
